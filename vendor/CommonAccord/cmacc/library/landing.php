@@ -9,12 +9,11 @@ include("header.php");
   <div class="container" id ="containerHome" style="padding:50px">
     <div class="row">
      <div class = "col-xs-12">
-     <p align="center"><img src="<?php echo ASSETS_PATH; ?>/cmacc-trans.png" style="width:65%" /></p>
+     <p align="center"><img src="<?php echo ASSETS_PATH; ?>/cmacc-trans.png" style="width:25%" /></p>
 <br/>
 <hr>
-<h1 class="title">Decentralized Law</h1>
+<h1 class="title">Best Practices License Agreements</h1>
 <hr>
-  <h3 class="title">A legal system for the 21st Century</h4>
 <br/><br/>
 
 </div></div>
