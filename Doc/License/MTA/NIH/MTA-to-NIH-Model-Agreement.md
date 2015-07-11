@@ -3,7 +3,7 @@ Doc.Title=Material Transfer Agreement for the Transfer of Organisms (MTA-TO) to 
 Source=<a href="http://www.ott.nih.gov/sites/default/files/documents/docs/mta-to-nih-model-agreement.doc">Word Doc</a>
 Intro={Intro.Request}<br>{Intro.Agree}
 
-0.1.sec=This is in response to RECIPIENT’s request for the MATERIAL {n-}{Material.Description}{-n}, and any unmodified derivative and unmodified progeny, as well as any biological materials (including, without limitation: zygotes, embryos, cells, tissues, fluids, etc.) which contain or incorporate the MATERIAL and are derived directly from the original organism or its unmodified progeny, to be used for the purpose of: {n-}{P2.ResearchPurpose}{-n}.
+0.1.sec=This is in response to RECIPIENT’s request for the MATERIAL {Material.Description}, and any unmodified derivative and unmodified progeny, as well as any biological materials (including, without limitation: zygotes, embryos, cells, tissues, fluids, etc.) which contain or incorporate the MATERIAL and are derived directly from the original organism or its unmodified progeny, to be used for the purpose of: {P2.ResearchPurpose}.
 
 0.2.sec=(specifically, the name of the gene or allele mutation that makes the organism(s) unique) {Material.Gene/Allele}, found within the {Material.Strain/Species} [organism strain, species]
 
@@ -11,7 +11,7 @@ Intro={Intro.Request}<br>{Intro.Agree}
 
 0.Sec={0.sec}
 
-0.=[Z/Sec/b/s2]
+0.=[Z/Sec/s2]
 
 1.sec=The above MATERIAL is the property of the PROVIDER and is made available as a service to the research community.   
 

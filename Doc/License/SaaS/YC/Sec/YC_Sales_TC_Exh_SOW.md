@@ -1,6 +1,6 @@
 EXHIBIT A
 
-Title=Statement of Work
+Doc.Title=Statement of Work
 
 Note=OPTIONAL
 

@@ -1,6 +1,6 @@
 EXHIBIT B
 
-Title=Service Level Terms
+Doc.Title=Service Level Terms
 
 Note=OPTIONAL: the language below is an example of a very simple short-form SLA.  These terms can range from one paragraph to several pages depending on the industry, the nature of the solution and the customer profile.
 

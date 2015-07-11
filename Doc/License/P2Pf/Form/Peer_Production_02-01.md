@@ -1,28 +1,28 @@
-Note=See notes in [P2Pf/License/Peer_Production.md]
+Note=See notes in [License/P2Pf/Peer_Production.md]
 
 Olist=<ol><li>{Def.Sec}<li>{FairDealing.Sec}<li>{Grant.Sec}<li>{Restrict.Sec}<li>{Reps.Sec}<li>{Liability.Sec}<li>{Life.Sec}<li>{Misc.Sec}</ol>
 
-=[P2Pf/License/Sec/Defined_Terms.md]
+=[License/P2Pf/Sec/Defined_Terms.md]
 
 Doc.Title=License
 
-Intro.=[P2Pf/License/Sec/Introduction.md]
+Intro.=[License/P2Pf/Sec/Introduction.md]
 
-Def.=[P2Pf/License/Sec/Definitions.md]
+Def.=[License/P2Pf/Sec/Definitions.md]
 
-FairDealing.=[P2Pf/License/Sec/Fair_Dealing_Rights.md]
+FairDealing.=[License/P2Pf/Sec/Fair_Dealing_Rights.md]
 
-Grant.=[P2Pf/License/Sec/License_Grant.md]
+Grant.=[License/P2Pf/Sec/License_Grant.md]
 
-Restrict.=[P2Pf/License/Sec/Restrictions.md]
+Restrict.=[License/P2Pf/Sec/Restrictions.md]
 
-Reps.=[P2Pf/License/Sec/Representations_Warranties_Disclaimers.md]
+Reps.=[License/P2Pf/Sec/Representations_Warranties_Disclaimers.md]
 
-Liability.=[P2Pf/License/Sec/Limitation_on_Liability.md]
+Liability.=[License/P2Pf/Sec/Limitation_on_Liability.md]
 
-Life.=[P2Pf/License/Sec/Termination.md]
+Life.=[License/P2Pf/Sec/Termination.md]
 
-Misc.=[P2Pf/License/Sec/Miscellaneous.md]
+Misc.=[License/P2Pf/Sec/Miscellaneous.md]
 
 =[Z/Sec/0]
 

@@ -41,13 +41,13 @@ NIH.Olist=<ol><li>{Setting.Sec}</li><li>{Def.Sec}</li><li>{License.Sec}</li><li>
 
 Note=Peer Production:
 
-P2P.=[P2Pf/License/Peer_Production_02-01.md]
+P2P.=[License/P2Pf/Form/Peer_Production_02-01.md]
 
 P2P.Olist=<ol><li>{Def.Sec}<li>{FairDealing.Sec}<li>{Grant.Sec}<li>{Restrict.Sec}<li>{Reps.Sec}<li>{Liability.Sec}<li>{Life.Sec}<li>{Misc.Sec}</ol>
 
 Note=SaaS: 
 
-YCSaaS.=[Startup/YC/Sales/YC_Sales_TC.md]
+YCSaaS.=[License/SaaS/YC/Form/YC_Sales_TC.md]
 
 YCSaaS.Olist=<ol><li>{Service.Sec}<li>{CovP2.Sec}<li>{Conf.Sec}<li>{Fee.Sec}<li>{Life.Sec}<li>{Warrant.Sec}<li>{Indemnify.Sec}<li>{LimitLiability.Sec}<li>{Misc.Sec}</ol>
 

@@ -1,4 +1,3 @@
-‟� ” ’
 Source=<a href="http://www.ott.nih.gov/sites/default/files/documents/docs/hmta09152011.docx">Word Doc</a>
 
 Doc.Title=Model Material Transfer Agreement for The Transfer Of Human Materials for Non-Profit Research Purposes
@@ -7,19 +6,19 @@ P1.Handle=Provider
 
 P2.Handle=Recipient
 
-Intro.This.sec=This Human Material Transfer Agreement ("MTA") is between {m-}{P1.Name.Full}{-m} (‟PROVIDER”), part of the National Institutes of Health, a component of the United States Department of Health and Human Services and {m-}{P2.Name.Full}{-m} (‟RECIPIENT”), located at {m-}{P2.Addr.1,2}{-m}, for the transfer of human material, with or without accompanying data, for research purposes as further defined below.  PROVIDER and RECIPIENT may each be referred to as Party or collectively as Parties.  This MTA will become effective on the date of the last signature below.
+Intro.This.sec=This Human Material Transfer Agreement ("MTA") is between {P1.Name.Full} (‟PROVIDER”), part of the National Institutes of Health, a component of the United States Department of Health and Human Services and {P2.Name.Full} (‟RECIPIENT”), located at {P2.Addr.1,2}, for the transfer of human material, with or without accompanying data, for research purposes as further defined below.  PROVIDER and RECIPIENT may each be referred to as Party or collectively as Parties.  This MTA will become effective on the date of the last signature below.
  
-Intro.Because.sec=PROVIDER Investigator:  {m-}{P1.Scientist.Name.Full}{-m}<br>RECIPIENT Investigator: {m-}{P2.Scientist.Name.Full}{-m}
+Intro.Because.sec=PROVIDER Investigator:  {P1.Scientist.Name.Full}<br>RECIPIENT Investigator: {P2.Scientist.Name.Full}
 
 Intro.That.sec=RECIPIENT and PROVIDER agree as follows:
 
-1.sec=PROVIDER will transfer to RECIPIENT the following: {m-}{Material.Description}{-m}  with the following data {m-}{Data.Description}{-m} (collectively ‟Human Material”).
+1.sec=PROVIDER will transfer to RECIPIENT the following: {Material.Description}  with the following data {Data.Description} (collectively ‟Human Material”).
 
-2.sec=Descriptive title of RECIPIENT’s research with Human Material is:  {m-}{P2.Research_Project.Description}{-m} (‟Research Project”).
+2.sec=Descriptive title of RECIPIENT’s research with Human Material is:  {P2.Research_Project.Description} (‟Research Project”).
 
 3.sec=RECIPIENT agrees to use Human Material for teaching and non-profit research purposes only and will not use Human Material for any commercial purposes, including selling, commercial screening, or transferring Human Material to a third party for commercial purposes.
 
-4.sec=Select {4.sec= includes Personally Identifiable Information} - either<ol><li>NO, does not: {4.1.sec } <br>{r-}{4.1.sec}{-r}</li><li>or</li><li> YES, it does {4.2.sec } <br>{r-}{4.2.sec}{-r}</li></ol> 
+4.sec=Select {4.sec= includes Personally Identifiable Information} - either<ol><li>NO, does not: {4.1.sec } <br><font color="red">{4.1.sec}</font></li><li>or</li><li> YES, it does {4.2.sec } <br><font color="red">{4.2.sec}</font></li></ol> 
 
 4.1.sec=PROVIDER will not provide RECIPIENT with personally identifiable information or the code to personally identifiable information with Human Material
 
@@ -67,7 +66,7 @@ Intro.That.sec=RECIPIENT and PROVIDER agree as follows:
 
 9.2.4.sec=are required to be disclosed by law, regulation, or court order
 
-9.2.secs={9.2.sescs;or}
+9.2.secs={9.2.secs;or}
 
 9.2.=[Z/Sec/s4]
 
@@ -99,23 +98,15 @@ Foot.Sec={P1.Officer.Sign.Block}<br>{P1.Coordinator.Sign.Block}<br>{P2.Officer.S
 
 FOR PROVIDER:
 
-P1.Officer.Sign.Block=<table width="80%"><tr><td width="40%">FOR PROVIDER:</td><td width="10%"></td><td width="30%">    </td></tr><tr><td>{m-}{P1.Officer.xSignature}{-m}<br>(Signature of Authorized Official)</td><td></td><td>{m-}{P1.Officer.Sign.YMD}{-m}<br>Date</td></tr><tr><td>{m-}{P1.Officer.Name.Full}, {P1.Officer.Title}{-m}<br>(Printed Name and Title)</td><td></td></tr></table>					
+P1.Officer.Sign.Block=<table width="80%"><tr><td width="40%">FOR PROVIDER:</td><td width="10%"></td><td width="30%">    </td></tr><tr><td>{P1.Officer.xSignature}<br>(Signature of Authorized Official)</td><td></td><td>{P1.Officer.Sign.YMD}<br>Date</td></tr><tr><td>{P1.Officer.Name.Full}, {P1.Officer.Title}<br>(Printed Name and Title)</td><td></td></tr></table>					
 
 FOR PROVIDER - Coordinator:
 
-P1.Coordinator.Sign.Block=<table width="80%"><tr><td width="40%">{m-}{P1.Coordinator.xSignature}{-m}<br>(Signature of NIH Technology Development Coordinator)</td><td width="10%">   </td><td width="30%">{m-}{P1.Coordinator.Sign.YMD}{-m}<br>Date</td></tr><tr><td>{m-}{P1.Coordinator.Name.Full}, {P1.Coordinator.Title}{-m}<br>(Printed Name and Title)</td><td></td></tr><tr><td>Mailing Address for Notices</td><td></td><td>{m-}{P1.Notice.Block}{-m}</td></tr></table>
+P1.Coordinator.Sign.Block=<table width="80%"><tr><td width="40%">{P1.Coordinator.xSignature}<br>(Signature of NIH Technology Development Coordinator)</td><td width="10%">   </td><td width="30%">{P1.Coordinator.Sign.YMD}<br>Date</td></tr><tr><td>{P1.Coordinator.Name.Full}, {P1.Coordinator.Title}<br>(Printed Name and Title)</td><td></td></tr><tr><td>Mailing Address for Notices</td><td></td><td>{P1.Notice.Block}</td></tr></table>
 
 
 FOR RECIPIENT:
 
-P2.Officer.Sign.Block=<table width="80%"><tr><td width="40%">FOR RECIPIENT:</td><td width="10%"></td><td width="30%">    </td></tr><tr><td>{m-}{P2.Officer.xSignature}{-m}<br>(Signature of Authorized Official)</td><td></td><td>{m-}{P2.Officer.Sign.YMD}{-m}<br>Date</td></tr><tr><td>{m-}{P2.Officer.Name.Full}, {P2.Officer.Title}{-m}<br>(Printed Name and Title)</td><td></td></tr><tr><td>Mailing Address for Notices</td><td></td><td>{m-}{P2.Notice.Block}{-m}</td></tr></table>
+P2.Officer.Sign.Block=<table width="80%"><tr><td width="40%">FOR RECIPIENT:</td><td width="10%"></td><td width="30%">    </td></tr><tr><td>{P2.Officer.xSignature}<br>(Signature of Authorized Official)</td><td></td><td>{P2.Officer.Sign.YMD}<br>Date</td></tr><tr><td>{P2.Officer.Name.Full}, {P2.Officer.Title}<br>(Printed Name and Title)</td><td></td></tr><tr><td>Mailing Address for Notices</td><td></td><td>{P2.Notice.Block}</td></tr></table>
 					
-P2.Scientist.Sign.Block=RECIPIENT INVESTIGATOR:<br>I have read and understood the terms and conditions of this MTA and I agree to abide by them in the receipt and use of the Human Material. <br>{m-}{P2.Scientist.xSignature}{-m}<br>(Signature)<br>{m-}{P2.Scientist.YMD}{-m}<br>Date
-				
-m-=<font color="magenta">
-
--m=</font>
-
-r-=<font color="red">
-
--r=</font>
+P2.Scientist.Sign.Block=RECIPIENT INVESTIGATOR:<br>I have read and understood the terms and conditions of this MTA and I agree to abide by them in the receipt and use of the Human Material. <br>{P2.Scientist.xSignature}<br>(Signature)<br>{P2.Scientist.YMD}<br>Date

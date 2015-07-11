@@ -1,6 +1,6 @@
 EXHIBIT C
 
-Title=Support Terms
+Doc.Title=Support Terms
 
 Note=OPTIONAL
 
