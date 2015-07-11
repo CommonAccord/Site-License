@@ -1,4 +1,4 @@
-Note1=There are many kinds of licenses.  They are in many fields.  This is a bit of an overview.  Here are some outlines of licenses and links to the licenses.  In those other pages, you can see the whole license by click on Document.  (Here, we have a list of documents, but this list is not a document.)
+Note1=There are many kinds of licenses.  They are in many fields.  This is a bit of an overview.  Here are some outlines of licenses and links to the licenses.  In most of those other pages, you can see the whole license by clicking on "Document."  (Here, we have a list of documents, but this list is not a document.)
 
 
 Ti=Copyright Licenses
