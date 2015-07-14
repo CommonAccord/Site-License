@@ -6,6 +6,6 @@ Summary=This article deals with some regulatory and legal problems of the Web of
 
 Link=http://buscalegis.ufsc.br/revistas/index.php/observatoriodoegov/article/view/34399
 
-Model.Root=<center>{Ti}<br>{Author}</center><br><br>{Summary}<br><br>Link: <a href="{Link}">{Link}</a>
+Model.Root=<center>{Ti}<br>{Author}</center><br><br>{Summary}<br><br>Link (Works in "Print" view, not in "Document" view because of span titles): <a href="{Link}">{Link}</a>
 
 
