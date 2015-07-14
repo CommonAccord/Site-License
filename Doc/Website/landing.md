@@ -1,4 +1,3 @@
-
 Model.Root=<p align="center">{Logo}</p>{Table.sec}
 
 Logo=<img src="visual/cmacc-trans.png" style="width:35%" />
@@ -12,7 +11,7 @@ Introduction.sec=This website is for licensing documents.<br><br>That is a very 
 FormDoc.sec=When you click on the first link below, you will see the YCombinator form of SaaS license agreement.
 
 
-DemoDocName=License/SaaS/YC/Form/YC_Sales_TC.md
+DemoDocName=License/SaaS/YC/Form/YC_Sales_Form.md
  
 Examples.sec=Example: <a href="index.php?action=source&file=Deal/Acme-Quake/YC_Sales_Demo.md">YC_Sales_Demo</a> based on the model license.
 
