@@ -8,7 +8,7 @@ Note=OPTIONAL
 
 1.sec=Bulk provisioning of user accounts
 
-2.sec=Customer training (on site or via webinar)
+2.sec={Customer} training (on site or via webinar)
 
 3.sec=Providing documentation
 

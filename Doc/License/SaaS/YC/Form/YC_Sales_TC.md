@@ -1,6 +1,6 @@
 Doc.Title=TERMS AND CONDITIONS 
 
-Olist=<ol><li>{Service.Sec}<li>{CovP2.Sec}<li>{Conf.Sec}<li>{Fee.Sec}<li>{Life.Sec}<li>{Warrant.Sec}<li>{Indemnify.Sec}<li>{LimitLiability.Sec}<li>{Misc.Sec}</ol>
+Olist=<ol><li>{Service.Sec!!}<li>{CovP2.Sec}<li>{Conf.Sec}<li>{Fee.Sec}<li>{Life.Sec}<li>{Warrant.Sec}<li>{Indemnify.Sec}<li>{LimitLiability.Sec}<li>{Misc.Sec}</ol>
 
 Service.=[License/SaaS/YC/Sec/Service.md]
 
