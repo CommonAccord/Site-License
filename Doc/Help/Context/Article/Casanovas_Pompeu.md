@@ -8,3 +8,5 @@ Link=http://buscalegis.ufsc.br/revistas/index.php/observatoriodoegov/article/vie
 
 =[Z/Misc/ArticleSummary]
 
+=(Click "Print")
+
