@@ -6,10 +6,9 @@ Table.sec=<table><tr><td>{IntroContent}</td><td>{TwitterBlock.sec}</td></tr></ta
 
 IntroContent={Introduction.sec}<br><br>{FormDoc.sec}<br>{PageTabs.sec}<br>{DocumentsFolder.sec}<br><br>{OtherSites.sec}<br><br>{PageSource.sec}
 
-Introduction.sec=This website is for licensing documents.<br><br>That is a very broad field, and it is likely that we will break this up into subdomains.  But all licenses share many features and it may be useful to emphasis the commonalities at the beginning.
+Introduction.sec=This website is for licensing documents.<br><br>That is a very broad field, and it is likely that we will break this up into subdomains.  But all licenses share many features and it may be useful to emphasis the commonalities.
 
 FormDoc.sec=When you click on the first link below, you will see the YCombinator form of SaaS license agreement.
-
 
 DemoDocName=License/SaaS/YC/Form/YC_Sales_Form.md
  
