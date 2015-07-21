@@ -14,8 +14,6 @@ DemoDocName=License/SaaS/YC/Form/YC_Sales_Form.md
  
 Examples.sec=Example: <a href="index.php?action=source&file=Deal/Acme-Quake/YC_Sales_Demo.md">YC_Sales_Demo</a> based on the model license.
 
-DocumentsFolder.sec=<a href="index.php?action=list&file=/">Folder with all the documents.</a>
-
 //We draw from a common list, hosted at GitHub:
 
 =[?https://raw.githubusercontent.com/CommonAccord/Site-Org/master/Doc/Website/ListOfCommonAccordWebsites.md]
