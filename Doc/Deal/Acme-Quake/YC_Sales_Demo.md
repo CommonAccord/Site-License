@@ -1,4 +1,4 @@
-=[Startup/YC/Sales/YC_Sales_Form.md]
+=[License/SaaS/YC/Form/YC_Sales_Form.md]
 
 P1.=[U/id/acme_incorporated]
 
@@ -32,4 +32,4 @@ P1.Sign.YMD=February 20, 2015
 
 P2.Sign.YMD=February 19, 2015
 
-Law.State.the=the State of California
+Law.State.the=the State of California  
