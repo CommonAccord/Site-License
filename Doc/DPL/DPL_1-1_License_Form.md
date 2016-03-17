@@ -6,8 +6,8 @@ Ti=The Defensive Patent License 1.1
 
 xlist={Nlist}
 
-=[Z/Sec/02]
+=[Z/Sec/2]
 
 DocBody={Doc}
 
-MessageToUser=From <a href="http://www.defensivepatentlicense.org/content/defensive-patent-license">defensivepatentlicense.org</a>
+MessageToUser=From <a href="http://www.defensivepatentlicense.org/content/defensive-patent-license">defensivepatentlicense.org</a>  
