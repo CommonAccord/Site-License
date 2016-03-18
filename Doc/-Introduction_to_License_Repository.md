@@ -21,7 +21,7 @@ Harmony.Olist=<ol><li>{Def.Sec}</li><li>{Grant.Sec}</li><li>{Rep.Sec}</li><li>{D
 
 Note=Creative Commons:
 
-CC.=[?http://www.commonaccord.org/index.php?action=source&file=CreativeCommons/License/4_0/BY-NC-SA]
+CC.=[?http://www.commonaccord.org/index.php?action=source&file=Wx/org/creativecommons/License/4_0/BY-NC-SA]
 
 CC.Olist=<ol><li>{Def.Sec}<li>{Scope.Sec}</li><li>{Conditions.Sec}</li><li>{Database.Sec}</li><li>{Disclaim.Sec}</li><li>{Life.Sec}</li><li>{Other.Sec}<li>{Interpretation.Sec}</ol>
 
@@ -55,4 +55,4 @@ Note=Government Data Sharing:
 
 CDC.=[?http://datashare.commonaccord.org/index.php?action=source&file=/WIP/CDC/Interagency_DSA.md]
 
-CDC.Olist=<ol><li>{Purpose.Sec}<li>{Period.Sec}<li>{Justification.Sec}<li>{Data.Sec}<li>{Access.Sec}<li>{Custody.Sec}<li>{Dispose.Sec}<li>{Cost.Sec}<li>{Effort.Sec}<li>{Sign.Sec}</ol>
+CDC.Olist=<ol><li>{Purpose.Sec}<li>{Period.Sec}<li>{Justification.Sec}<li>{Data.Sec}<li>{Access.Sec}<li>{Custody.Sec}<li>{Dispose.Sec}<li>{Cost.Sec}<li>{Effort.Sec}<li>{Sign.Sec}</ol>  
