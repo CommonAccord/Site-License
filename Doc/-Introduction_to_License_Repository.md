@@ -21,7 +21,7 @@ Harmony.Olist=<ol><li>{Def.Sec}</li><li>{Grant.Sec}</li><li>{Rep.Sec}</li><li>{D
 
 Note=Creative Commons:
 
-CC.=[?http://www.commonaccord.org/index.php?action=source&file=Wx/org/creativecommons/License/4_0/BY-NC-SA]
+CC.=[?http://www.commonaccord.org/index.php?action=list&file=Wx/org/creativecommons/License/4_0/]
 
 CC.Olist=<ol><li>{Def.Sec}<li>{Scope.Sec}</li><li>{Conditions.Sec}</li><li>{Database.Sec}</li><li>{Disclaim.Sec}</li><li>{Life.Sec}</li><li>{Other.Sec}<li>{Interpretation.Sec}</ol>
 
